@@ -1,10 +1,15 @@
 # OSS Capstone Project: Python Audit
 
 **Student Name:** Lubhani Jain
+
 **Registration Number:** 24BOE10044
+
 **Course:** Open Source Software (NGMC)
+
 **Software Audited:** Python
+
 **License:** Python Software Foundation (PSF) License
+
 **Environment:** Ubuntu (WSL)
 
 ---
