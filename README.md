@@ -54,7 +54,7 @@ sudo apt install python3
 
 # How to Run the Project
 
-# Step 1: Clone Repository
+## Step 1: Clone Repository
 
 ```bash id="bq8z1k"
 git clone https://github.com/Lubhanijain/oss-audit--24BOE10044-.git
@@ -63,7 +63,7 @@ cd oss-audit--24BOE10044-
 
 ---
 
-# Step 2: Give Execution Permission
+## Step 2: Give Execution Permission
 
 ```bash id="7i3x2m"
 chmod +x *.sh
@@ -71,7 +71,7 @@ chmod +x *.sh
 
 ---
 
-# Step 3: Run Each Script
+## Step 3: Run Each Script
 
 ### Script 1: System Identity
 
