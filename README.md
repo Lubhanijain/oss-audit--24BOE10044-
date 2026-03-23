@@ -73,31 +73,31 @@ chmod +x *.sh
 
 # Step 3: Run Each Script
 
-# Script 1: System Identity
+### Script 1: System Identity
 
 ```bash id="qk3v1s"
 ./script1.sh
 ```
 
-# Script 2: Package Inspector
+### Script 2: Package Inspector
 
 ```bash id="c1r9ye"
 ./script2.sh
 ```
 
-# Script 3: Disk Auditor
+### Script 3: Disk Auditor
 
 ```bash id="u9r3k1"
 ./script3.sh
 ```
 
-# Script 4: Log Analyzer
+### Script 4: Log Analyzer
 
 ```bash id="2o8xpw"
 ./script4_analyzer.sh python_audit.log error
 ```
 
-# Script 5: Manifesto Generator
+### Script 5: Manifesto Generator
 
 ```bash id="w2m7nz"
 ./script5.sh
@@ -107,31 +107,31 @@ chmod +x *.sh
 
 # Script Descriptions 
 
-# Script 1- System Identity Report
+### Script 1- System Identity Report
 
 * Uses command substitution (`$()`)
 * Displays system-level information
 * Demonstrates variables and formatted output
 
-# Script 2- Package Inspector
+### Script 2- Package Inspector
 
 * Uses `dpkg -l` and `grep`
 * Checks installation status of Python
 * Implements `if-else` and `case` statement
 
-# Script 3- Disk & Permission Auditor
+### Script 3- Disk & Permission Auditor
 
 * Uses `for` loop to iterate directories
 * Extracts permissions using `ls -ld`
 * Displays storage usage via `du`
 
-# Script 4- Log File Analyzer
+### Script 4- Log File Analyzer
 
 * Uses `while-read` loop
 * Counts keyword occurrences
 * Accepts command-line arguments
 
-# Script 5- Manifesto Generator
+### Script 5- Manifesto Generator
 
 * Uses `read` for input
 * Writes output to file using `>`
